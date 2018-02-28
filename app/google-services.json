@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1096211227623",
+    "firebase_url": "https://songshappy-da719.firebaseio.com",
+    "project_id": "songshappy-da719",
+    "storage_bucket": "songshappy-da719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096211227623:android:38562d3c8a2fce27",
+        "android_client_info": {
+          "package_name": "com.ark.pushnotificationnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096211227623-nfqp2e80urtijvmddpu8bu7t5rtcnfmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ark.pushnotificationnewsapp",
+            "certificate_hash": "abc252d6e9034418564518cd0aab76f160e16afc"
+          }
+        },
+        {
+          "client_id": "1096211227623-0d8eqeols1s6bivaa1f6va24g9sjbbe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXuDE5SrRFii5EMxQH4FIvphJRzi0zmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096211227623-0d8eqeols1s6bivaa1f6va24g9sjbbe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
